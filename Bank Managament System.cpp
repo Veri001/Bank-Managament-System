@@ -352,7 +352,6 @@ void intro()
     cout<<"\n\n\t  BANK";
     cout<<"\n\n\t     MANAGMENT";
     cout<<"\n\n\t        SYSTEM";
-    cout<<"\n\n   University: UAMD";
     cout<<"\n\n    Press Enter to Continue";
     cin.get();
 }
